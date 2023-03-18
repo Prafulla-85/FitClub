@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
+      "CLUB IS CLEAN AND WELL KEPT. GROUP TRAINERS ARE ENTHUSIASTIC, ENGAGING AND WELL PREPARED. I LOVE THAT YOU HAVE ‘MORE MATURE’ TRAINERS... MAKES FOR GREAT ROLE MODELS",
+    name: 'JOHN TAMBOLI',
     status : 'ENTREPRENEUR'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
+    review: 'CONVENIENTLY LOCATED GOOD AESTHETICS PLENTY OF ROOMS ― DOWNSTAIRS, WOMENS ROOM AND CLASSROOM SPACE LOW KEY',
+    name: 'THE ROCK',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
+    review:'HIGH QUALITY, DIVERSE GROUP CLASSES; EQUIPMENTS IN GOOD CONDITION; PEOPLE ARE NICE TO ONE ANOTHER LIKE IN A FRIENDLY COMMUNITY',
+    name: 'GOLDBERG',
     status: "CUSTOMER"
   }
 ];
